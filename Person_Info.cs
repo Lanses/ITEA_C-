@@ -2,7 +2,7 @@
 
 namespace PersonInfo
 {
-    public class InfoAboutStudents {
+    public class InfoAboutStudent {
         public string name;
         public string lastname;
 
@@ -21,7 +21,7 @@ namespace PersonInfo
     {
         static void Main(string[] args)
         {
-            InfoAboutStudents test1 = new InfoAboutStudents();
+            InfoAboutStudent test1 = new InfoAboutStudent();
             test1.PreShow();
             string name = Console.ReadLine();
             string lastname = Console.ReadLine();
