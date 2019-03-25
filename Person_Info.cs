@@ -3,17 +3,17 @@
 namespace PersonInfo
 {
     public class InfoAboutStudent {
-        public string name;
-        public string lastname;
+        private string name;
+        private string lastname;
 
-        public void PreShow() {
+        public static void PreShow() {
             Console.WriteLine("Please fill name and last name of the student: ");
         }
 
-        public void NameAndLastName(string n, string ln) {
-            name = n;
-            lastname = ln;
-            Console.WriteLine($"Name: {n} Last Name: {ln}");
+        public static void NameAndLastName(string n, string ln) {
+            //name = n;
+            //lastname = ln;
+            Console.WriteLine($"Name: {n} Last name: {ln}");
         }
 
     }
