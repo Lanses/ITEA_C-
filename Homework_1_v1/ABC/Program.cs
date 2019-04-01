@@ -7,9 +7,6 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Result();
-            Console.ReadLine();
-            Console.ReadLine();
-            Console.ReadLine();
 
         }
 

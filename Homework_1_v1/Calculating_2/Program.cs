@@ -7,9 +7,6 @@ namespace Calculating_2
         static void Main(string[] args)
         {
             Result();
-            Console.ReadLine();
-            Console.ReadLine();
-            Console.ReadLine();
         }
 
 
@@ -20,12 +17,23 @@ namespace Calculating_2
             var C = int.Parse(Console.ReadLine());
             if (A > C)
             {
-                Console.WriteLine((A + B) / 5 + Math.Pow(Math.Sin(C), 2));
+                Case1(A, B, C);
             }
             else
             {
-                Console.WriteLine(Math.Sqrt(Math.Abs(B + (Math.Pow(Math.Cos(C), 2)))));
+                Case2(A, B, C);
             }
+        }
+
+
+        public static void Case1(int A, int B, int C)
+        {
+            Console.WriteLine((A + B) / 5 + Math.Pow(Math.Sin(C), 2));
+        }
+
+        public static void Case2(int A, int  B, double C)
+        {
+            Console.WriteLine(Math.Sqrt(Math.Abs(B + (Math.Pow(Math.Cos(C), 2)))));
         }
 
     }

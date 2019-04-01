@@ -7,8 +7,6 @@ namespace Calculating1
         static void Main(string[] args)
         {
             Result();
-            Console.ReadLine();
-            Console.ReadLine();
 
         }
 
@@ -16,14 +14,23 @@ namespace Calculating1
         {
             var A = int.Parse(Console.ReadLine());
             var B = int.Parse(Console.ReadLine());
+
             if (A >= B)
             {
-                Console.WriteLine((A - B / 2) / (2 * Math.Pow(A + B, 2)));
+                Case1(A, B);
             }
             else
             {
-                Console.WriteLine(Math.Sqrt(A + Math.Pow(B + 1, 2)));
+                Case2(A, B);
             }
+        }
+
+        public static void Case1(int A, int B) {
+            Console.WriteLine((A - B / 2) / (2 * Math.Pow(A + B, 2)));
+        }
+
+        public static void Case2(int A, double B) {
+            Console.WriteLine(Math.Sqrt(A + Math.Pow(B + 1, 2)));
         }
 
     }
