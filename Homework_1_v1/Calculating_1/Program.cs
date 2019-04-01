@@ -25,6 +25,10 @@ namespace Calculating1
             }
         }
 
+        //please use the following rule for '{}' braces:
+        //They should always appear in the next line for the following cases:
+        //1. Starting and ending method
+        //2. after if, else, for, foreach, switch, try, catch statements.
         public static void Case1(int A, int B) {
             Console.WriteLine((A - B / 2) / (2 * Math.Pow(A + B, 2)));
         }
