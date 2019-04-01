@@ -25,11 +25,13 @@ namespace Calculating1
             }
         }
 
-        public static void Case1(int A, int B) {
+        public static void Case1(int A, int B)
+        {
             Console.WriteLine((A - B / 2) / (2 * Math.Pow(A + B, 2)));
         }
 
-        public static void Case2(int A, double B) {
+        public static void Case2(int A, double B)
+        {
             Console.WriteLine(Math.Sqrt(A + Math.Pow(B + 1, 2)));
         }
 

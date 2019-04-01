@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Homework_1_v1\\Fibonacci_Recursion\\Fibonacci_v1.csproj",
-      "projectName": "Fibonacci_v1",
-      "projectPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Homework_1_v1\\Fibonacci_Recursion\\Fibonacci_v1.csproj",
+      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Homework_1_v1\\Fibonacci_Recursion_1\\Fibonacci_Recursion.csproj",
+      "projectName": "Fibonacci_Recursion",
+      "projectPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Homework_1_v1\\Fibonacci_Recursion_1\\Fibonacci_Recursion.csproj",
       "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Homework_1_v1\\Fibonacci_Recursion\\obj\\",
+      "outputPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Homework_1_v1\\Fibonacci_Recursion_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

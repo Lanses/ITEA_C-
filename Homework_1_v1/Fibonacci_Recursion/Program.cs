@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fibonacci_Recursion
+namespace Fibonacci_v1
 {
     class Program
     {
