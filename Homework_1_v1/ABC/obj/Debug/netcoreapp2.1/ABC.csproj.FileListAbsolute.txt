@@ -1,0 +1,11 @@
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\bin\Debug\netcoreapp2.1\ABC.deps.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\bin\Debug\netcoreapp2.1\ABC.runtimeconfig.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\bin\Debug\netcoreapp2.1\ABC.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\bin\Debug\netcoreapp2.1\ABC.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\bin\Debug\netcoreapp2.1\ABC.pdb
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\obj\Debug\netcoreapp2.1\ABC.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\obj\Debug\netcoreapp2.1\ABC.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\obj\Debug\netcoreapp2.1\ABC.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\obj\Debug\netcoreapp2.1\ABC.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\obj\Debug\netcoreapp2.1\ABC.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\ABC\obj\Debug\netcoreapp2.1\ABC.pdb

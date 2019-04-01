@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\LengthOfTheStringByNumbers\bin\Debug\netcoreapp2.1\LengthOfTheStringByNumbers.deps.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\LengthOfTheStringByNumbers\bin\Debug\netcoreapp2.1\LengthOfTheStringByNumbers.runtimeconfig.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\LengthOfTheStringByNumbers\bin\Debug\netcoreapp2.1\LengthOfTheStringByNumbers.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\LengthOfTheStringByNumbers\bin\Debug\netcoreapp2.1\LengthOfTheStringByNumbers.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\LengthOfTheStringByNumbers\bin\Debug\netcoreapp2.1\LengthOfTheStringByNumbers.pdb
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\LengthOfTheStringByNumbers\obj\Debug\netcoreapp2.1\LengthOfTheStringByNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\LengthOfTheStringByNumbers\obj\Debug\netcoreapp2.1\LengthOfTheStringByNumbers.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\LengthOfTheStringByNumbers\obj\Debug\netcoreapp2.1\LengthOfTheStringByNumbers.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\LengthOfTheStringByNumbers\obj\Debug\netcoreapp2.1\LengthOfTheStringByNumbers.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\LengthOfTheStringByNumbers\obj\Debug\netcoreapp2.1\LengthOfTheStringByNumbers.pdb

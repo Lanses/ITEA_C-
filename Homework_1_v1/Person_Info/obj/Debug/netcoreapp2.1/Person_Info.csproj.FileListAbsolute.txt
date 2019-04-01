@@ -1,0 +1,4 @@
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Person_Info\obj\Debug\netcoreapp2.1\Person_Info.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Person_Info\obj\Debug\netcoreapp2.1\Person_Info.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Person_Info\obj\Debug\netcoreapp2.1\Person_Info.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Person_Info\obj\Debug\netcoreapp2.1\Person_Info.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\bin\Debug\netcoreapp2.1\Calculating_1.deps.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\bin\Debug\netcoreapp2.1\Calculating_1.runtimeconfig.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\bin\Debug\netcoreapp2.1\Calculating_1.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\bin\Debug\netcoreapp2.1\Calculating_1.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\bin\Debug\netcoreapp2.1\Calculating_1.pdb
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\obj\Debug\netcoreapp2.1\Calculating_1.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\obj\Debug\netcoreapp2.1\Calculating_1.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\obj\Debug\netcoreapp2.1\Calculating_1.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\obj\Debug\netcoreapp2.1\Calculating_1.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\obj\Debug\netcoreapp2.1\Calculating_1.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Calculating_1\obj\Debug\netcoreapp2.1\Calculating_1.pdb

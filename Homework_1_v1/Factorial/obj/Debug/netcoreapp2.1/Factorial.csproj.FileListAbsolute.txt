@@ -1,0 +1,11 @@
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\bin\Debug\netcoreapp2.1\Factorial.deps.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\bin\Debug\netcoreapp2.1\Factorial.runtimeconfig.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\bin\Debug\netcoreapp2.1\Factorial.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\bin\Debug\netcoreapp2.1\Factorial.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\bin\Debug\netcoreapp2.1\Factorial.pdb
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\obj\Debug\netcoreapp2.1\Factorial.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\obj\Debug\netcoreapp2.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\obj\Debug\netcoreapp2.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\obj\Debug\netcoreapp2.1\Factorial.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\obj\Debug\netcoreapp2.1\Factorial.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\Factorial\obj\Debug\netcoreapp2.1\Factorial.pdb

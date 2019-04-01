@@ -1,0 +1,11 @@
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\bin\Debug\netcoreapp2.1\CylinderVolume.deps.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\bin\Debug\netcoreapp2.1\CylinderVolume.runtimeconfig.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\bin\Debug\netcoreapp2.1\CylinderVolume.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\bin\Debug\netcoreapp2.1\CylinderVolume.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\bin\Debug\netcoreapp2.1\CylinderVolume.pdb
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\obj\Debug\netcoreapp2.1\CylinderVolume.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\obj\Debug\netcoreapp2.1\CylinderVolume.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\obj\Debug\netcoreapp2.1\CylinderVolume.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\obj\Debug\netcoreapp2.1\CylinderVolume.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\obj\Debug\netcoreapp2.1\CylinderVolume.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Homework_1_v1\CylinderVolume\obj\Debug\netcoreapp2.1\CylinderVolume.pdb
