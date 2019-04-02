@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\bin\Debug\netcoreapp2.1\Just_Practise.deps.json
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\bin\Debug\netcoreapp2.1\Just_Practise.runtimeconfig.json
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\bin\Debug\netcoreapp2.1\Just_Practise.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\bin\Debug\netcoreapp2.1\Just_Practise.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\bin\Debug\netcoreapp2.1\Just_Practise.pdb
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\obj\Debug\netcoreapp2.1\Just_Practise.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\obj\Debug\netcoreapp2.1\Just_Practise.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\obj\Debug\netcoreapp2.1\Just_Practise.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\obj\Debug\netcoreapp2.1\Just_Practise.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\obj\Debug\netcoreapp2.1\Just_Practise.pdb
