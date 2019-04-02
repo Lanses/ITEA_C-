@@ -1,0 +1,11 @@
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\bin\Debug\netcoreapp2.1\Array.deps.json
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\bin\Debug\netcoreapp2.1\Array.runtimeconfig.json
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\bin\Debug\netcoreapp2.1\Array.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\bin\Debug\netcoreapp2.1\Array.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\bin\Debug\netcoreapp2.1\Array.pdb
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\obj\Debug\netcoreapp2.1\Array.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\obj\Debug\netcoreapp2.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\obj\Debug\netcoreapp2.1\Array.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\obj\Debug\netcoreapp2.1\Array.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\obj\Debug\netcoreapp2.1\Array.dll
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Array\obj\Debug\netcoreapp2.1\Array.pdb

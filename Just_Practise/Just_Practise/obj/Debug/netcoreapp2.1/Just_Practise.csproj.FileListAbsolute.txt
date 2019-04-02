@@ -8,3 +8,4 @@ C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\obj\Debug\netcore
 C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\obj\Debug\netcoreapp2.1\Just_Practise.AssemblyInfo.cs
 C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\obj\Debug\netcoreapp2.1\Just_Practise.dll
 C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\obj\Debug\netcoreapp2.1\Just_Practise.pdb
+C:\Users\Alexander\Desktop\ITEA_C-\Just_Practise\Just_Practise\obj\Debug\netcoreapp2.1\Just_Practise.csprojAssemblyReference.cache
