@@ -35,11 +35,7 @@ namespace Array
             double min = arr.Min();
             double middle = sum / arr.Length;
 
-            Console.WriteLine(min);
-            Console.WriteLine("\n");
-            Console.WriteLine(max);
-            Console.WriteLine("\n");
-            Console.WriteLine(sum);
+            Console.WriteLine($"Min value: {min} Max value: {max} Middle value: {middle}");
         }
     }
 }
