@@ -11,15 +11,18 @@
             <RowDefinition Height="50"/>
             <RowDefinition Height="400"/>
         </Grid.RowDefinitions>
-        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="0" RenderTransformOrigin="0.496,0.48">
-            <Button Click="StartDrawingLines">Draw Line</Button>
-            <Button Click="StartDrawingCircles">Draw Circle</Button>
-            <Button Click="StartDrawingSquares">Draw Square</Button>
-            <Button Click="Clear">Clear</Button>
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="0" RenderTransformOrigin="0.496,0.48" Margin="0,0,434,0">
+            <Button Click="StartDrawingLines" Width="80" BorderBrush="White" Foreground="#FF595752" Background="#FFD8D8D7" UseLayoutRounding="True">Draw Line
+            </Button>
+            <Button Click="StartDrawingCircles" Width="80" BorderBrush="White" Foreground="#FF595752" Background="#FFD8D8D7" UseLayoutRounding="True" Content="Draw Circle"/>
+            <Button Click="StartDrawingSquares" Width="96" BorderBrush="White" Foreground="#FF595752" Background="#FFD8D8D7" UseLayoutRounding="True">Draw Square
+            </Button>
+            <Button Click="Clear" Width="73" BorderBrush="White" Foreground="#FF595752" Background="#FFD8D8D7" UseLayoutRounding="True">Clear
+            </Button>
         </StackPanel>
-        <Canvas Grid.Row="1"  
+        <Canvas  
                     Name="MyCanvas"
                     MouseLeftButtonUp="HandleMouseClick"
-                Background="WhiteSmoke" Margin="0,0,0,0"/>
+                Background="White" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" Grid.Row="1"/>
     </Grid>
 </Window>
