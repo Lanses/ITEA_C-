@@ -4,14 +4,25 @@ using System.Text;
 
 namespace Classes
 {
-    class Book
+    public class Book
     {
-        string Author;
-        string _name;
-        int _numberOfPages;
-        DateTime _dateOfPublication;
-        string Category;
+        public string Author { get; private set; }
+        public string Title;
 
+        private int _numberOfPages;
+        private DateTime _dateOfPublication;
+        private string Category;
+
+        public Book(string author, string title)
+        {
+            Author = author;
+            Title = title;
+        }
+
+        public Book(string author)
+        {
+            Author = author;
+        }
 
         void Read()
         {

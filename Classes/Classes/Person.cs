@@ -4,10 +4,18 @@ using System.Text;
 
 namespace Classes
 {
-    class Person
+    public class Person
     {
-        DateTime _dataOfBirth;
-        string _name;
-        int _dollarsCount;
+        protected DateTime _dataOfBirth;
+        public string Name;
+        private int _dollarsCount;
+
+        int Age
+        {
+            get
+            {
+                return ((int)(DateTime.Now - _dataOfBirth).TotalDays) / 365;
+            }
+        }
     }
 }

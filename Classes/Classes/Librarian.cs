@@ -8,7 +8,11 @@ namespace Classes
     {
         Book ProvideBook()
         {
-            return new Book();
+            var book = new Book("Rey Bredberry", "Book");
+            book.Author = "Stephen King";
+            book.Title = "Four seasons";
+
+            return book;
         }
     }
 }
