@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\Classes\\Library.csproj",
-      "projectName": "Library",
-      "projectPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\Classes\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\AutoShow\\AutoShow.csproj",
+      "projectName": "AutoShow",
+      "projectPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\AutoShow\\AutoShow.csproj",
       "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\Classes\\obj\\",
+      "outputPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\AutoShow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

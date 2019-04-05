@@ -207,6 +207,19 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.dll": {}
+        }
       }
     }
   },
@@ -680,10 +693,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Library/1.0.0": {
+      "type": "project",
+      "path": "../Classes/Library.csproj",
+      "msbuildProject": "../Classes/Library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Library >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -694,11 +713,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\Classes\\Library.csproj",
-      "projectName": "Library",
-      "projectPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\Classes\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\LibraryUser\\LibraryUser.csproj",
+      "projectName": "LibraryUser",
+      "projectPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\LibraryUser\\LibraryUser.csproj",
       "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\Classes\\obj\\",
+      "outputPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\LibraryUser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -716,7 +735,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\Classes\\Library.csproj": {
+              "projectPath": "C:\\Users\\Alexander\\Desktop\\ITEA_C-\\Classes\\Classes\\Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

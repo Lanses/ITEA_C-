@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Classes
+namespace Library
 {
-    class Librarian : Person
+    public class Librarian : Person
     {
         Book ProvideBook()
         {
             var book = new Book("Rey Bredberry", "Book");
-            book.Author = "Stephen King";
+            //book.Author = "Stephen King";
             book.Title = "Four seasons";
 
             return book;
