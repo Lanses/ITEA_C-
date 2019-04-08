@@ -27,9 +27,17 @@ namespace TravelProject
 
 
             Console.WriteLine("Please enter number of vacation days: ");
-            var _numberOfDays = DateTime.Parse(Console.ReadLine());
+            var _numberOfDays = int.Parse(Console.ReadLine());
             Console.WriteLine("\n");
 
+
+            Console.WriteLine("Please enter number of persons: ");
+            var _numberOfPersons = int.Parse(Console.ReadLine());
+            Console.WriteLine("\n");
+
+
+            DataBase price = new DataBase();
+            price.Price();
         }
     }
 }
