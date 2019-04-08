@@ -4,7 +4,14 @@ using System.Text;
 
 namespace TravelProject
 {
-    class Search
+    public class Search : DataBase 
     {
+        public Search(string departureCountry, string departureCity, string destinationCountry, string destinationCity)
+        {
+            DepartureCountry = departureCountry;
+            DepartureCity = departureCity;
+            DestinationCountry = destinationCountry;
+            DestinationCity = destinationCity;
+        }
     }
 }

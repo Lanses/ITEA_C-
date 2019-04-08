@@ -4,7 +4,8 @@ using System.Text;
 
 namespace TravelProject
 {
-    class Messenger
+    public class Messenger : DataBase
     {
+        
     }
 }

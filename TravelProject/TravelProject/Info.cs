@@ -4,7 +4,11 @@ using System.Text;
 
 namespace TravelProject
 {
-    class Info
+    public class Info : DataBase
     {
+
+        public string _location;
+        public string _phone;
+        
     }
 }
