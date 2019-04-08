@@ -7,8 +7,8 @@ namespace TravelProject
     public class Info : DataBase
     {
 
-        public string _location;
-        public string _phone;
+        public string _ofiiceLocation;
+        public string _officePhone;
         
     }
 }
