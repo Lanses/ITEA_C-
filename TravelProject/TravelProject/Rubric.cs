@@ -6,5 +6,6 @@ namespace TravelProject
 {
     public class Rubric
     {
+
     }
 }
