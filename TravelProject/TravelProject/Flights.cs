@@ -4,7 +4,8 @@ using System.Text;
 
 namespace TravelProject
 {
-    class Flights
+    public class Flights : DataBase
     {
+
     }
 }

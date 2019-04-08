@@ -4,7 +4,8 @@ using System.Text;
 
 namespace TravelProject
 {
-    class Hot_
+    public class Hot : DataBase
     {
+
     }
 }

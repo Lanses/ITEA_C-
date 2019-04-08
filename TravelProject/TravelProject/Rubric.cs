@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TravelProject
 {
-    class Rubric
+    public class Rubric
     {
     }
 }
