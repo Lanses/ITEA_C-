@@ -4,7 +4,10 @@ using System.Text;
 
 namespace Zoo
 {
-    class Visitor
+    class Visitor : Person
     {
+        public Visitor(int age, string name) : base(age, name)
+        {
+        }
     }
 }
