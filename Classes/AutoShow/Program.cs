@@ -7,7 +7,7 @@ namespace AutoShow
         static void Main(string[] args)
         {
             var car = new CarProperties("BMW", "M5", "Black");
-            var carInfo = new CarInfo()
+            var carInfo = new CarInfo();
         }
     }
 }

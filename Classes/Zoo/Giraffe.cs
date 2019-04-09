@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Zoo
 {
-    class Giraffe
+    public class Giraffe : Animal
     {
+        public override void Eat(Food food)
+        {
+            Console.WriteLine("Giraffe had been feeded");
+        }
     }
 }

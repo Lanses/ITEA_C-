@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoShow", "AutoShow\AutoSh
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polymorphism", "Polymorphism", "{921843B3-238E-40DE-B0DE-1DFFF7BC301C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{79E235A9-19C8-48C2-9E96-16FF7595D698}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoo", "Zoo\Zoo.csproj", "{79E235A9-19C8-48C2-9E96-16FF7595D698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooConsole", "ZooConsole\ZooConsole.csproj", "{6D99397F-C200-45A3-AADE-7F4872345AA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,12 +37,17 @@ Global
 		{79E235A9-19C8-48C2-9E96-16FF7595D698}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79E235A9-19C8-48C2-9E96-16FF7595D698}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79E235A9-19C8-48C2-9E96-16FF7595D698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D99397F-C200-45A3-AADE-7F4872345AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D99397F-C200-45A3-AADE-7F4872345AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D99397F-C200-45A3-AADE-7F4872345AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D99397F-C200-45A3-AADE-7F4872345AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{79E235A9-19C8-48C2-9E96-16FF7595D698} = {921843B3-238E-40DE-B0DE-1DFFF7BC301C}
+		{6D99397F-C200-45A3-AADE-7F4872345AA0} = {921843B3-238E-40DE-B0DE-1DFFF7BC301C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B8CC463-C448-4BA8-B695-BDEB861F8174}

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Zoo
 {
-    class Herb : Aviary
+   public class Herb : Aviary
     {
+
     }
 }

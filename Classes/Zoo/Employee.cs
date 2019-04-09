@@ -4,7 +4,15 @@ using System.Text;
 
 namespace Zoo
 {
-    class Employee : Person
+    public class Employee : Person
     {
+        public Employee(int age, string name) : base(age, name)
+        {
+        }
+
+        public void FeedAnimal(Animal animal)
+        {
+            
+        }
     }
 }
