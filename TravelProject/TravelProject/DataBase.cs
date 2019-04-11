@@ -32,9 +32,9 @@ namespace TravelProject
 
         public void Price()
         {
-            foreach (string Ukraine in DepartureCountry) 
+            foreach (string country in DepartureCountry) 
             {
-                Console.WriteLine("Hello");
+                Console.WriteLine();
 
             }
 
