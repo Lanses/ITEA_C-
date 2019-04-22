@@ -3,16 +3,19 @@ using System;
 
 namespace InterfaceImplementation
 {
-    public class Customer : IPerson
+    public abstract class Customer : IPerson
     {
-        public string Name { get; }
+        public abstract string Name { get; }
 
-        public string LastName { get; }
+        public abstract string LastName { get; }
 
-        public Customer(string name, string lastName)
+
+        public virtual void Status()
         {
-            Name = name;
-            LastName = lastName;
+            Console.WriteLine("I'm a novice in flights");
         }
+
+        public abstract void Salary();
+
     }
 }

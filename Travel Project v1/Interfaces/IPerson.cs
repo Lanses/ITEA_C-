@@ -8,5 +8,7 @@ namespace Interfaces
     {
         string Name { get;}
         string LastName { get;}
+        void Status();
+        void Salary();
     }
 }

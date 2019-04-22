@@ -9,32 +9,40 @@ namespace Travel_Project_v1
     {
         static void Main(string[] args)
         {
+            IPerson owner = new CompanyOwner("Bill", "Rogers");
+            IPerson secreatry = new Secretary("Sofia", "Blanc");
+            owner.Status();
+            owner.Status();
+            secreatry.Status();
 
-            IPerson customer = new Customer("Peter", "Clarkson");
-
-            Console.WriteLine($"Hello, {customer}");
 
             var information = new Info();
             information.InfoMessage();
 
+            Console.WriteLine("Please enter your name and last name: ");
+            var customerName = Console.ReadLine();
+            var customerLastName = Console.ReadLine();
+            Console.WriteLine(value: $"Hello, {customerName} {customerLastName}");
+            Console.WriteLine("\n");
+
 
             Console.WriteLine("Please fill departure country: ");
-            var _departureCountry = Console.ReadLine();
+            var departureCountry = Console.ReadLine();
             Console.WriteLine("\n");
 
 
 
             Console.WriteLine("Please fill destination country: ");
-            var _destinationCountry = Console.ReadLine();
+            var destinationCountry = Console.ReadLine();
             Console.WriteLine("\n");
 
 
 
             Console.WriteLine("Please enter number of persons: ");
-            var _numberOfPersons = int.Parse(Console.ReadLine());
+            var numberOfPersons = int.Parse(Console.ReadLine());
             Console.WriteLine("\n");
 
-            if (_numberOfPersons <= 1)
+            if (numberOfPersons <= 1)
             {
                 Console.WriteLine($"Hello, total price of your ticket is: ");
             }
