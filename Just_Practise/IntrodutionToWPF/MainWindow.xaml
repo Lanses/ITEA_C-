@@ -1,0 +1,28 @@
+﻿<Window x:Class="IntrodutionToWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IntrodutionToWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="CanResizeWithGrip" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="400"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="0" RenderTransformOrigin="0.496,0.48" Margin="0,0,434,0">
+            <Button Click="StartDrawingLines" Width="80" BorderBrush="White" Foreground="#FF595752" Background="#FFD8D8D7" UseLayoutRounding="True">Draw Line
+            </Button>
+            <Button Click="StartDrawingCircles" Width="80" BorderBrush="White" Foreground="#FF595752" Background="#FFD8D8D7" UseLayoutRounding="True" Content="Draw Circle"/>
+            <Button Click="StartDrawingSquares" Width="96" BorderBrush="White" Foreground="#FF595752" Background="#FFD8D8D7" UseLayoutRounding="True">Draw Square
+            </Button>
+            <Button Click="Clear" Width="73" BorderBrush="White" Foreground="#FF595752" Background="#FFD8D8D7" UseLayoutRounding="True">Clear
+            </Button>
+        </StackPanel>
+        <Canvas  
+                    Name="MyCanvas"
+                    MouseLeftButtonUp="HandleMouseClick"
+                Background="White" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" Grid.Row="1"/>
+    </Grid>
+</Window>
