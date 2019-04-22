@@ -1,4 +1,0 @@
-C:\Users\Alexander\Desktop\ITEA_C-\Classes\LibraryUser\obj\Debug\netcoreapp2.1\LibraryUser.csprojAssemblyReference.cache
-C:\Users\Alexander\Desktop\ITEA_C-\Classes\LibraryUser\obj\Debug\netcoreapp2.1\LibraryUser.csproj.CoreCompileInputs.cache
-C:\Users\Alexander\Desktop\ITEA_C-\Classes\LibraryUser\obj\Debug\netcoreapp2.1\LibraryUser.AssemblyInfoInputs.cache
-C:\Users\Alexander\Desktop\ITEA_C-\Classes\LibraryUser\obj\Debug\netcoreapp2.1\LibraryUser.AssemblyInfo.cs
