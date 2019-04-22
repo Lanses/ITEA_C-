@@ -1,0 +1,4 @@
+C:\Users\Alexander\Desktop\Itea Local\Travel Project v1\SomeStuff\obj\Debug\netcoreapp2.1\SomeStuff.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Itea Local\Travel Project v1\SomeStuff\obj\Debug\netcoreapp2.1\SomeStuff.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Itea Local\Travel Project v1\SomeStuff\obj\Debug\netcoreapp2.1\SomeStuff.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Itea Local\Travel Project v1\SomeStuff\obj\Debug\netcoreapp2.1\SomeStuff.AssemblyInfo.cs
