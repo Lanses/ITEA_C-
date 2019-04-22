@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Interfaces_Practise\InterfaceImplementation.csproj" />
+    <ProjectReference Include="..\Realisation\Interface.csproj" />
+  </ItemGroup>
+
+</Project>
